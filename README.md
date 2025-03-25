@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DHANUSHIYA SM</h1>
-<h3 align="center">ASPIRING AI ENGINEER</h3>
+<h3 align="center">ASPIRING SOFTWARE ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushiyasm11&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushiyasm11" /> </p>
 
